@@ -1,3 +1,3 @@
 The target is: b00da
-The string is: 8gAs
-The hash is: ca9ddb89618b6af131754be63ac36ac147327080347d096b82c5679ccb00dac4
+The string is: y2JO
+The hash is: 5d4575c40f4b00dad5726c171d63fce4f632a4d942fe8594746259c59bbfa44b

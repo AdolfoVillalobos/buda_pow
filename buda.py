@@ -10,7 +10,7 @@ def summary(target, hashed, string):
 
 def main():
     num_repetitions = 1
-    num_zeros = 4
+    num_zeros = 2
     target = get_target(num_repetitions, num_zeros)
 
     pw = ProofOfWork()
